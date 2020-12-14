@@ -1,1 +1,16 @@
+.row1 {
+    background-color: antiquewhite;
+    height: 900px;
+}
+.row2 {
+    text-align:center;
+    background-color: gray;
+    border: black 2px;
+}
 
+.insidebox {
+    background-color: lightblue;
+    width: 800px;
+    padding: 20px;
+    text-align: center;
+}
