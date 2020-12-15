@@ -12,5 +12,23 @@
     background-color: lightblue;
     width: 800px;
     padding: 20px;
+    
+}
+.port {
+    background-color: lightblue;
+    text-align: center;
+    padding: 20px;
+}
+.my-column1 {
+    border: 4px black;
+    height: 225px;
+    text-align: center;
+    padding:50px
+    
+}
+
+
+
+.footer {
     text-align: center;
 }
