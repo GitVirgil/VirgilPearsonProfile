@@ -39,13 +39,23 @@
       <div class="container">
         <div class="row row-cols-2">
           <div class="col-md-8 contact-column bg-info">Contact form here
-            <div class="mb-3">
-                <label for="exampleFormControlInput1" class="form-label">Email address</label>
-                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+            <div class="col first-nm">
+              <input type="text" class="form-control" placeholder="First name" aria-label="First name">
+            </div>
+
+            <div class="col">
+              <input type="text" class="form-control" placeholder="Last name" aria-label="Last name">
+            </div>
+            <div class="mb-3 email-add">
+                <label for="Form Control class="form-label"></label>
+                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Email">
               </div>
-              <div class="mb-3">
-                <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
-                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+              <div class="form-floating textt-form">
+                <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+                <label for="floatingTextarea">Comments</label>
+              </div>
+              <div class="col-auto submit-b">
+                <button type="submit" class="btn btn-primary">Submit</button>
               </div>
           </div>
           <div class="col-md-3 contact-column bg-info">contact info here</div>

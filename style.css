@@ -46,9 +46,23 @@ box-sizing: border-box;
  padding: 30px;
 
 }
+.first-nm {                             /* from contact/form 1st name */
+    margin-bottom: 20px;
+    margin-top: 100px;
+}
 
+.email-add {                             /* from contact/from Email */
+    margin-bottom: 20px;
+}
 
-
+.textt-form {
+    height: 50px;
+    margin-bottom: 15px;
+}
+.submit-b {
+width: 40px;
+height: 35px;
+}
 .footer {
     text-align: center;
     background-color: gray;
