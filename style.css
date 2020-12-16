@@ -9,11 +9,6 @@
     height: 492px;
 }    
 
-.row2 {
-    text-align:center;
-    background-color: gray;
-    border: black 2px;
-}
 html {
 box-sizing: border-box;
 }
@@ -21,12 +16,11 @@ box-sizing: border-box;
     box-sizing: inherit;
 }
 
-.inside-box {
-    background-color: lightblue;
-    width: 800px;
+.float-left {
+    float: left;
     padding: 20px;
-    
 }
+    
 .port {
     background-color: lightblue;
     text-align: center;
