@@ -1,5 +1,4 @@
 .row1 {
-    background-color: antiquewhite;
     height: 890px;
 }
 .super-wide {
@@ -40,6 +39,19 @@ box-sizing: border-box;
  padding: 30px;
 
 }
+address {
+    margin-top: 150px;
+    display: block;
+  font-size: 20px;
+}
+
+.bg-info {
+    display:block;
+    font-size: 20px;
+    text-align:center;
+    
+}
+
 .first-nm {                             /* from contact/form 1st name */
     margin-bottom: 20px;
     margin-top: 100px;
@@ -56,8 +68,17 @@ box-sizing: border-box;
 .submit-b {
 width: 40px;
 height: 35px;
+
 }
+
+.bi bi-facebook {
+    margin-top: 30px;
+}
+
+
+
 .footer {
     text-align: center;
     background-color: gray;
+    width: 1210px;
 }
