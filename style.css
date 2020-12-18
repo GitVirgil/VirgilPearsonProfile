@@ -1,12 +1,17 @@
 .row1 {
     height: 890px;
 }
+
 .super-wide {
     width: 100%;
 }
 .super-short {
     height: 492px;
 }    
+h1 {
+    text-align: center;
+}
+
 
 html {
 box-sizing: border-box;
@@ -48,7 +53,7 @@ address {
 .bg-info {
     display:block;
     font-size: 20px;
-    text-align:center;
+    
     
 }
 
