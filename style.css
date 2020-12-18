@@ -10,8 +10,8 @@
 }    
 h1 {
     text-align: center;
+    margin-top: 70px;
 }
-
 
 html {
 box-sizing: border-box;
@@ -41,28 +41,29 @@ box-sizing: border-box;
 .contact-column {                          /* From contact html */
  height: 850px;
  text-align: center;
- padding: 30px;
-
-}
-address {
-    margin-top: 150px;
-    display: block;
-  font-size: 20px;
+ padding: 40px;
 }
 
 .bg-info {
-    display:block;
     font-size: 20px;
     height: 900px;
 }
 
 .first-nm {                             /* from contact/form 1st name */
-    margin-bottom: 20px;
-    margin-top: 100px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    padding: 10px;
+}
+.last-nm {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .email-add {                             /* from contact/from Email */
-    margin-bottom: 20px;
+    margin-bottom:10px;
+   
+    padding: 10px;
 }
 
 .textt-form {
@@ -74,19 +75,14 @@ address {
 width: 40px;
 height: 35px;
 margin-top: 30px;
-
 }
 
-
-ul li {
-    display: inline-block;
-    padding: 10px 17px;
-
+.card {
+    padding: 20px;
+    margin-top: 100px;
 }
 
 .footer {
     text-align: center;
-    width: 100%;
-
-   
+    width: 100%;   
 }
