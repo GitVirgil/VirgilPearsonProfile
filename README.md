@@ -4,10 +4,7 @@ I am husband and a professional Full-Stack web developer.
 
 ## Reach Out!
 
-<i class="fab fa-instagram"></i></a>
-<a href="https://www.facebook.com/VirgilPearson/"><i class="fab fa-facebook-square"></i></a>
-<a href="https://twitter.com/PearsonvirgilV"><i class="fab fa-twitter-square"></i></a>
-
+### (social media icons with links will go here if recommended)
 ---
 * I am currently working on building a strong commit library.
 * Most used line of code. git commit -m "initial commit" 
