@@ -4,7 +4,7 @@ I am husband and a professional Full-Stack web developer.
 
 ## Reach Out!
 
-"https://www.instagram.com/virgilpearson/"><i class="fab fa-instagram"></i></a>
+<i class="fab fa-instagram"></i></a>
 <a href="https://www.facebook.com/VirgilPearson/"><i class="fab fa-facebook-square"></i></a>
 <a href="https://twitter.com/PearsonvirgilV"><i class="fab fa-twitter-square"></i></a>
 
