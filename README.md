@@ -15,4 +15,4 @@ I am husband and a professional Full-Stack web developer.
 * Fun Fact: I like sport cars from the muscle car era. I am also a Earth Wind and Fire Fan.
 
 ---
-![Virgil's Github stats](https://github-readme-stats.vercel.app/api?username=GitVirgilshow_icons=true")
+![Virgil's Github stats](https://github-readme-stats.vercel.app/api?username=GitVirgil)
